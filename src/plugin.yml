@@ -1,0 +1,9 @@
+name: GiveawayPlus
+version: 1.0
+authors: [NotEnoughSkill]
+description: Chat Giveaway Plugin
+main: me.NotEnoughSkill.Giveaway.Main
+
+commands:
+  giveaway:
+    description: Starts a giveaway

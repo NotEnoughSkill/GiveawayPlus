@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Giveaway+:jar">
+    <output-path>$PROJECT_DIR$/../../Test Server (Factions)/plugins</output-path>
+    <root id="archive" name="Giveaway+.jar">
+      <element id="module-output" name="Giveaway+" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
